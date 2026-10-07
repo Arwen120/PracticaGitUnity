@@ -53,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
-    <Compile Include="Assets\Scirpts\ScriptTarea1_1.cs" />
+    <Compile Include="Assets\Scripts\ScriptTarea1_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
